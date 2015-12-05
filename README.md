@@ -1,3 +1,5 @@
 # Gitチュートリアル
-- master
+
 - feacher-A
+- fix-B
+
