@@ -1,3 +1,3 @@
 # Gitチュートリアル
-- feature-A
 - master
+- feacher-A
